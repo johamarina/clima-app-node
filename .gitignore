@@ -4,6 +4,6 @@ db/database.json
 
 .env
 
-package-lock.json
+#package-lock.json
 
 
